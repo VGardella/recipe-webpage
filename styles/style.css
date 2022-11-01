@@ -1,18 +1,23 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
 }
 
 .box1{
-    margin: 50px;
+
     padding: 30px;
     border-style: outset;
     width: max-content;
 }
 
 .descr{
-    margin: 50px;
+
 }
 
 .steps{
-    margin: 50px;
+
+}
+
+.important{
+
 }
