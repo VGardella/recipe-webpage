@@ -3,12 +3,16 @@
 }
 
 .box1{
-    margin: 10px 30px;
+    margin: 50px;
     padding: 30px;
     border-style: outset;
     width: max-content;
 }
 
 .descr{
+    margin: 50px;
+}
+
+.steps{
     margin: 50px;
 }
